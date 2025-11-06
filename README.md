@@ -1,11 +1,16 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://i2.wp.com/giffiles.alphacoders.com/214/214311.gif"  />
+  <img height="300" width="1200" src="https://i2.wp.com/giffiles.alphacoders.com/214/214311.gif"  />
 </div>
 
 # 💫 Обо мне:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
+
+🔭 В настоящее время я работаю над реализацией конфигураций 1С.<br>
+🤖 В свободное время работаю над реализацией проектов на Arduino, Raspberry Pie, а также SpeedyBee.<br>
+👯 Буду рад новым знакомствам.<br>
+🌱 В настоящее время я учусь в НГТУ.  Прошел курс Разработчика 1С от Сертифицированного центра обучения 1С и Яндекс Практикума.<br>
+🤝 Ищу работу в области разработки и программирования на 1С. Буду рад поработать с Вами.<br>
 
 
 ## 🌐 Связь со мной:
