@@ -5,7 +5,6 @@
 </div>
 
 # 💫 Обо мне:
-
 🔭 В настоящее время я работаю над реализацией конфигураций 1С.<br>
 🤖 В свободное время работаю над реализацией проектов на Arduino, Raspberry Pie, а также SpeedyBee.<br>
 👯 Буду рад новым знакомствам.<br>
@@ -18,11 +17,9 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 
-  <a href="mailto:artem.tamarenko@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Yandex%20Mail&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="yandex mail logo" />
-  </a>
-
-
+<a href="mailto:artem.tamarenko@yandex.ru">
+  <img src="https://img.shields.io/static/v1?message=Yandex%20Mail&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="yandex mail logo" />
+</a>
 
 # 💻 Что использую:
 ![1C](https://img.shields.io/badge/1C-%23FFD700.svg?style=for-the-badge&logo=1C&logoColor=black)
