@@ -30,6 +30,14 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br>
+![Excel](https://img.shields.io/badge/Excel-%23217546?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23E34F26?style=for-the-badge&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23F0DB4F?style=for-the-badge&logo=json&logoColor=black)
+![REST](https://img.shields.io/badge/REST-%2300B4D8?style=for-the-badge&logo=swagger&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-%231E90FF?style=for-the-badge&logo=soap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DataBaseFile](https://img.shields.io/badge/DataBaseFile-%234A5568?style=for-the-badge&logo=database&logoColor=white)
+<br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
