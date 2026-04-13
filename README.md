@@ -52,11 +52,10 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ja4ba4-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ja4ba4-dev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ja4ba4-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ja4ba4-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/ja4ba4-dev)
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ja4ba4-dev&theme=radical&hide_border=false)](https://github.com/ja4ba4-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja4ba4-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/ja4ba4-dev)
 
----
-[![](https://visitcount.itsvg.in/api?id=ja4ba4-dev&icon=1&color=3)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=ja4ba4-dev&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
