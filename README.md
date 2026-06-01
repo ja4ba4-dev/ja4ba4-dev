@@ -10,19 +10,12 @@
 🤝 Ищу работу в области разработки и программирования. Буду рад поработать с Вами.<br>
 👯 Буду рад новым знакомствам.<br>
 
-## 🌐 Связь со мной:
-<a href="https://t.me/under_t4ker" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</a>
-<br>
-<a href="mailto:artem.tamarenko@yandex.ru">
-  <img src="https://img.shields.io/static/v1?message=Yandex%20Mail&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="yandex mail logo" />
-</a>
-
 # 💻 Что использую:
-![1C](https://img.shields.io/badge/1C-%23FFD700.svg?style=for-the-badge&logo=1C&logoColor=black)
+👨🏻‍💻 Programming:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![1C](https://img.shields.io/badge/1C-%23FFD700.svg?style=for-the-badge&logo=1C&logoColor=black)
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -48,5 +41,31 @@
 <br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<br>
+🤖 Robotics & Autonomous Systems:
 
+![ROS2](https://img.shields.io/badge/ROS2_Jazzy-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Nav2](https://img.shields.io/badge/Nav2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM_Toolbox-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+<br>
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
+![Lidar](https://img.shields.io/badge/RPLidar_A1M8-%23FF6B35.svg?style=for-the-badge&logo=radar&logoColor=white)
+![GPS](https://img.shields.io/badge/GPS_u--blox-%230077B6.svg?style=for-the-badge&logo=googlemaps&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-%236A0DAD.svg?style=for-the-badge&logo=buffer&logoColor=white)
+<br>
+![Tailscale](https://img.shields.io/badge/Tailscale-%23242424.svg?style=for-the-badge&logo=tailscale&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+# 🌐 Связь со мной:
+<a href="https://t.me/under_t4ker" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</a>
+<br>
+<a href="mailto:artem.tamarenko@yandex.ru">
+  <img src="https://img.shields.io/static/v1?message=Yandex%20Mail&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="yandex mail logo" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
