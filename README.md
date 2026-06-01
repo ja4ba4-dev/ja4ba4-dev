@@ -39,8 +39,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 <br>
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%2300B4D8.svg?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%23009FDA.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 <br>
 🤖 Robotics & Autonomous Systems:
 
@@ -53,6 +54,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
 ![Lidar](https://img.shields.io/badge/RPLidar_A1M8-%23FF6B35.svg?style=for-the-badge&logo=radar&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![GPS](https://img.shields.io/badge/GPS_u--blox-%230077B6.svg?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-%236A0DAD.svg?style=for-the-badge&logo=buffer&logoColor=white)
 <br>
