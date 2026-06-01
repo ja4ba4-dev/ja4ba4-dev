@@ -5,12 +5,10 @@
 </div>
 
 # 🍀 Обо мне:
-🔭 Работаю над реализацией конфигураций 1С.<br>
-🤖 В свободное время работаю над реализацией проектов на 1С. Cвязками между Arduino, Raspberry Pie 5 (Собираю ровер на автопилоте).<br>
-👯 Буду рад новым знакомствам.<br>
+🤖 В свободное время работаю над реализацией разных проектов. Собираю ровер на Raspberry Pie 5 с Ubuntu 24.04.<br>
 🐋 В настоящее время учусь в НГТУ.  Прошел курс Разработчика 1С от Сертифицированного центра обучения 1С и Яндекс Практикума.<br>
-🤝 Ищу работу в области разработки и программирования на 1С. Буду рад поработать с Вами.<br>
-
+🤝 Ищу работу в области разработки и программирования. Буду рад поработать с Вами.<br>
+👯 Буду рад новым знакомствам.<br>
 
 ## 🌐 Связь со мной:
 <a href="https://t.me/under_t4ker" target="_blank">
@@ -50,8 +48,5 @@
 <br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-# 📊 GitHub Stats:
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
