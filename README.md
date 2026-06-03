@@ -75,3 +75,12 @@
   <img src="https://img.shields.io/static/v1?message=Yandex%20Mail&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="yandex mail logo" />
 </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 📊 GitHub Stats:
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ja4ba4-dev&theme=tokyo-night&hide_border=true&area=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ja4ba4-dev&color=blue&style=for-the-badge)
+
+</div>
