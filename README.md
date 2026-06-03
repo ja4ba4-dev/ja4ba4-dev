@@ -33,6 +33,8 @@
 ![smbus](https://img.shields.io/badge/smbus-%236A0DAD.svg?style=for-the-badge&logo=python&logoColor=white)
 ![rclpy](https://img.shields.io/badge/rclpy-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![pyserial](https://img.shields.io/badge/pyserial-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![transforms3d](https://img.shields.io/badge/transforms3d-%236A0DAD.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
